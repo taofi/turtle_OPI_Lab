@@ -1,0 +1,3 @@
+﻿  turtel.cpp
+C:\Users\User\Desktop\turtel\turtel\turtel.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  turtel.vcxproj -> C:\Users\User\Desktop\turtel\x64\Debug\turtel.exe
